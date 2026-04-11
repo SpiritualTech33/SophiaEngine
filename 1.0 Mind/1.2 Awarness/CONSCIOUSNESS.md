@@ -1,0 +1,10 @@
+
+
+[[GOD]]
+[[MIND]]
+[[PHILOSOPHY]]
+[[SPIRIT]]
+[[SPIRITUALITY]]
+[[THINKING]]
+
+
