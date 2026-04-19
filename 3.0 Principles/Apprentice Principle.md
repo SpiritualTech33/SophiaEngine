@@ -35,6 +35,6 @@ He simply becomes a more advanced, more disciplined, more reverent apprentice.
 [[PHILOSOPHY]]
 [[PRINCIPLES]]
 [[Socrates]]
-[[RICHARD FEYNMAN]]
+[[Richard Feynman]]
 
 

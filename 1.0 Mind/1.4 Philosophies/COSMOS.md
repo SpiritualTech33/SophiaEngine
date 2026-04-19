@@ -74,7 +74,7 @@ The highest use of the cosmos isn't to explain it—it's to let it transform us.
 
 Contemplating the cosmos is a way of remembering who we are… and who we are not. The cosmos isn't just the physical universe—it's the experience of totality, order, and mystery that arises when the mind meets the infinite. It fascinates us because it decenters us, includes us, and reminds us that we're part of something immense that can be thought about, though never exhausted. Looking at the cosmos is, in the end, looking at ourselves trying to understand it.
 
-[[CARL SAGAN]]
+[[Carl Sagan]]
 [[GOD]]
 [[MIND]]
 [[METAPHYSICS]]

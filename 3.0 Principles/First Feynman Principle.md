@@ -10,4 +10,4 @@ tags: ["principles", "feynman-technique", "richard-feynman", "meditation", "phil
 
 “The first principle is that you must not fool yourself - and you are the easiest person to fool.”
 
-[[PRINCIPLES]]  [[METACOGNITION]]  [[MEDITATION]]  [[METAPHYSICS]]  [[LEARNING]]  [[POTENTIAL]]  [[PHILOSOPHY]]  [[RICHARD FEYNMAN]]
+[[PRINCIPLES]]  [[METACOGNITION]]  [[MEDITATION]]  [[METAPHYSICS]]  [[LEARNING]]  [[POTENTIAL]]  [[PHILOSOPHY]]  [[Richard Feynman]]

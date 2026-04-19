@@ -96,7 +96,7 @@ As Sagan might say, staring at the vastness, we are like children playing on the
 [[COSMOS]]
 [[THINKING]]
 [[SCIENTIFIC THINKING]]
-[[CARL SAGAN]]
+[[Carl Sagan]]
 [[SCIENCE]]
 [[MIND]]
 [[QUALIA]]
